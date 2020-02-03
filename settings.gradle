@@ -1,0 +1,2 @@
+include ':app', ':usearch'
+rootProject.name='SearchActivity'
